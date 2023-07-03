@@ -1,0 +1,3 @@
+list(APPEND directories
+		${src}
+)
